@@ -1,4 +1,4 @@
-# LaikaDeunert
+# Laika Deunert
 
 <!-- ![Jumbotron](https://github.com/laikaDe/laikaDeunert/blob/main/Adventure%20Script%20Facebook%20Cover%20(8).gif) -->
 
