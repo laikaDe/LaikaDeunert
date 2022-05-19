@@ -1,5 +1,6 @@
 # Laika Deunert
 
+<!-- ![Jumbotron](https://github.com/laikaDe/laikaDeunert/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif) -->
 <!-- ![Jumbotron](https://github.com/laikaDe/laikaDeunert/blob/main/Adventure%20Script%20Facebook%20Cover%20(8).gif) -->
 
 ### Welcome to my Github! 👋
